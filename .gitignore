@@ -1,4 +1,4 @@
 *.csv
 .env
-*.txt
+tagged_description.txt
 /venv
